@@ -30,7 +30,6 @@ How to Run:
 Clone the repo:
 git clone https://github.com/yourusername/energy-consumption-forecasting.git
 Install dependencies:
-nginx
 pip install -r requirements.txt
 
 Open notebooks/ to explore code.
